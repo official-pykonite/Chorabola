@@ -8,6 +8,7 @@ This hasn't been written yet.
 
 ## Changelog
 This is where you will find all the release update logs, with what they do.
+You may report new issues by emailing pykonite@gmail.com with subject "Chorabola Feature/Bug!"
 
 ### 0.1.0: 
 First alpha release with limited features.
@@ -17,4 +18,4 @@ Known bugs:
 + Paywall down during phase 1 of alpha testing
 + Some chore methods have malfunctioning logic
 + Various other features need fixing
-You may report new issues by emailing pykonite@gmail.com with subject "Chorabola Feature/Bug!"
+
