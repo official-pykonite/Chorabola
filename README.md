@@ -1,6 +1,6 @@
 # Chorabola
 
-Thank you for supporting Chorabola! Various information can be found here, like our (privacy policy[https://github.com/official-pykonite/Chorabola/tree/main?tab=readme-ov-file#privacy-policy]) *(Not Set)* and (changelogs[https://github.com/official-pykonite/Chorabola/tree/main?tab=readme-ov-file#changelog])!
+Thank you for supporting Chorabola! Various information can be found here, like our ([privacy policy](https://github.com/official-pykonite/Chorabola/tree/main?tab=readme-ov-file#privacy-policy]) *(Not Set)* and (changelogs[https://github.com/official-pykonite/Chorabola/tree/main?tab=readme-ov-file#changelog])!
 
 ## Privacy Policy
 This hasn't been written yet.
