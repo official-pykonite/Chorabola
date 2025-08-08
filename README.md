@@ -30,7 +30,7 @@ First alpha release with limited features.
 Known bugs: 
 + Data is lost upon closing app
 + Data will not save to / load from cloud
-+ Paywall down during phase 1 of alpha testing
++ Ads and paywall down during phase 1 of alpha testing
 + Some chore methods have malfunctioning logic
 + Various other features need fixing
 + Collecting data not restricted to admins
